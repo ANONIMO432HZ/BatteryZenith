@@ -163,7 +163,7 @@ La aplicación se divide en tres secciones principales:
 ### 📊 **Interpretación de Datos**
 
 #### 🔋 **Niveles de Batería**
-- 🟢 **80-100%**: Excelente - Modo conservación recomendado
+- 🟢 **80-90%**: Excelente - Modo conservación recomendado
 - 🟡 **50-79%**: Bueno - Uso normal
 - 🟠 **20-49%**: Moderado - Considera conectar el cargador
 - 🔴 **0-19%**: Crítico - Conecta el cargador inmediatamente
