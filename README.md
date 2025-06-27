@@ -100,7 +100,7 @@ cd BatteryZenith
 pip install -r requirements.txt
 
 # 3. Ejecuta la aplicación
-python battery_zenith.py
+python3 battery_zenith.py
 ```
 
 ---
