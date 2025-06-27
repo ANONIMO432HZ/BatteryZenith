@@ -1,0 +1,46 @@
+🔋 BATTERYZENITH - GUÍA RÁPIDA 🔋
+=====================================
+
+🚀 INSTALACIÓN RÁPIDA:
+1. Doble clic en "install.bat" para instalación automática
+2. O ejecuta manualmente: pip install -r requirements.txt
+
+✅ VERIFICACIÓN:
+1. Doble clic en "verify_install.bat" para verificar dependencias
+2. Deberías ver ✓ para todos los componentes
+
+▶️ EJECUCIÓN:
+1. Doble clic en "run.bat" para ejecutar la aplicación
+2. O ejecuta manualmente: python battery_zenith.py
+
+🎮 DEMO:
+- Ejecuta "python demo.py" para ver una demostración de las funcionalidades
+
+✨ CARACTERÍSTICAS PRINCIPALES:
+🔋 Monitoreo de batería en tiempo real
+🛡️ Modo de conservación (limita carga al 80%)
+💻 Información del sistema (CPU, memoria, disco)
+🎨 Interfaz moderna y fácil de usar
+⚡ Actualizaciones automáticas cada 2 segundos
+
+🔧 SOLUCIÓN DE PROBLEMAS:
+❌ Si no se muestra información de batería: Verifica que tu dispositivo tenga batería
+⚠️ Si hay errores de instalación: Ejecuta como administrador
+🔍 Si hay problemas con dependencias: Usa "verify_install.bat" para diagnosticar
+📖 Para más ayuda: Consulta el README.md
+
+📁 ARCHIVOS IMPORTANTES:
+🚀 install.bat: Instalador mejorado con manejo de errores
+✅ verify_install.bat: Verificador de dependencias
+▶️ run.bat: Ejecutor rápido de la aplicación
+🎮 demo.py: Demostración de funcionalidades
+📖 README.md: Documentación completa
+
+🎯 COMANDOS ÚTILES:
+python battery_zenith.py    # Ejecutar aplicación principal
+python demo.py              # Ver demostración
+.\install.bat               # Instalar dependencias
+.\verify_install.bat        # Verificar instalación
+.\run.bat                   # Ejecutar rápidamente
+
+⭐ ¡Disfruta usando BatteryZenith! ⭐ 
