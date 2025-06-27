@@ -93,7 +93,7 @@
 
 ```bash
 # 1. Clona el repositorio
-git clone <url-del-repositorio>
+git clone <https://github.com/ANONIMO432HZ/BatteryZenith.git>
 cd BatteryZenith
 
 # 2. Instala las dependencias
