@@ -17,7 +17,7 @@
 
 ## 📖 Descripción
 
-**BatteryZenith** es una aplicación de escritorio elegante y moderna diseñada específicamente para ayudarte a monitorear y optimizar la vida de la batería de tu portátil Windows. Con una interfaz intuitiva y funcionalidades avanzadas, te proporciona control total sobre la salud de tu batería.
+**BatteryZenith** es una aplicación de escritorio elegante y moderna diseñada específicamente para ayudarte a monitorear y optimizar la vida de la batería de tu portátil Lenovo en Windows. Con una interfaz intuitiva y funcionalidades avanzadas, te proporciona control total sobre la salud de tu batería.
 
 ### 🎯 ¿Por qué BatteryZenith?
 
