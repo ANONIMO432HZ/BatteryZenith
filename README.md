@@ -68,7 +68,7 @@
 
 1. **Descarga el proyecto**
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/ANONIMO432HZ/BatteryZenith.git
    cd BatteryZenith
    ```
 
